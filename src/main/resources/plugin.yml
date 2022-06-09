@@ -1,0 +1,10 @@
+name: 'EarthUtil'
+version: '${version}'
+main: 'de.earthplay.earthutil.EarthUtil'
+author: 'EarthPlay'
+description: 'A Util for java to bring it down to Earth again.'
+api-version: 1.18
+database: true
+
+libraries:
+  - 'com.zaxxer:HikariCP:5.0.1'
